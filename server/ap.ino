@@ -2,7 +2,7 @@
 #include <WiFiUdp.h>
 
 const char *ssid = "BlackCat_tmod";
-const char *pass = "BlackBoxPass";
+const char *pass = "BlackCatPass";
 
 // This is Access Point "Server" code
 
